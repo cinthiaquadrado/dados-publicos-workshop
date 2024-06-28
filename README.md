@@ -1,6 +1,6 @@
 # dados-publicos-workshop
 
-Repositório destinado a estudos utilizando dados públicos + Looker Studio. A ideia inicial de explorar essas informações veio a partir do Workshop realizado pela Lilian Bochia.
+Repositório destinado a estudos utilizando dados públicos + Looker Studio. A ideia inicial de explorar essas informações veio a partir do Workshop realizado pela Lilian Boccia.
 
 Links:
 
